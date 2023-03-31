@@ -1,9 +1,10 @@
 Deploy on: https://react-login-table.vercel.app/
 
-<h2>Для логина нужно ввести<br/>
-имя пользователя: user{любое число}<br/>
-пароль: password</h2>
-
+<h2>
+имя пользователя: user{N}<br/>
+пароль: password<br/>
+, user{N} – где вместо {N} нужно ввести число, например user1, user2… user33.
+</h2>
 
 
 <br/><br/><br/><br/><br/>
