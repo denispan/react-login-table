@@ -3,7 +3,7 @@
 
 Deploy on: https://react-login-table.vercel.app/
 
-<b>Для получения логина и пароля обратитесь в компанию ООО "Технологии защиты" (pryaniky.com)</b>
+<b>Для получения логина и пароля обратитесь в компанию ООО "Технологии защиты" (<a href="pryaniky.com" target="_blank" rel="noopener noreferrer nofollow">pryaniky.com<a/>)</b>
 
 
 <br/><br/><br/><br/><br/>
